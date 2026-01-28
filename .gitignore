@@ -2,6 +2,9 @@
 /Programs/*/DebugConfig/
 /Programs/*/ITSboard/
 /Programs/*/RTE/
+/Programs/*/out/
+/Programs/*/tmp/
+/Programs/*/*.cbuild-idx.yml
 
 # Ignore User specific setting
 /Programs/*/*.uvguix.*
